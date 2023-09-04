@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "12dd6a635f2b5476",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf68715a9b4d141e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c3f8754bef52b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fea93c60a7179f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "11882eecd537c112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16ce0c943b30e14f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a5f5b09aceec09e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89c54d677eb4feeb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea4cc602e30efb6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c5f8d4e01460bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a000c389dff103",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0160abb5aca123c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d61bf74fe6a6bc74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce872bf60e1d7b53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bases De Datos/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16ce0c943b30e14f",
+  "lastOpenFiles": [
+    "Bases De Datos/Untitled.md",
+    "Web Y Mobile",
+    "Untitled",
+    "Bases De Datos",
+    "Algoritmos",
+    "Redes De Datos"
+  ]
+}
