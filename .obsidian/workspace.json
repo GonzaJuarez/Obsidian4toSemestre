@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "ec474f24b3e34596",
+    "type": "split",
+    "children": [
+      {
+        "id": "4710bde3d6e7ad18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a15bea19e27cdd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de Enlace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76437741f6abd4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1cf56ea4feb271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf0a459ee602488",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dc1b18a1aad7a9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "516b0e17ecec7066",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9209d13d79afdc37",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca08cf003550425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4f98fdbc01304c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de Enlace.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34367082eec6237a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de Enlace.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c590eefe6bb4c1cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72de43f950744261",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de Enlace.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "baf0a459ee602488",
+  "lastOpenFiles": [
+    "4to Semstre/Redes de Datos/Capa de Enlace.md",
+    "4to Semstre/Redes de Datos"
+  ]
+}
