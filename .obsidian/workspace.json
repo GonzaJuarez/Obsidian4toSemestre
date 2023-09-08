@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c45d126d41f8ab3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Semstre/Etica/Clase 9-9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "955771c71522cf20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Semstre/Base de Datos/Sentencias.md",
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "right": {
     "id": "9209d13d79afdc37",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Semstre/Base de Datos/Sentencias.md",
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Semstre/Base de Datos/Sentencias.md",
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Semstre/Base de Datos/Sentencias.md"
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md"
               }
             }
           }
@@ -161,9 +148,9 @@
   },
   "active": "955771c71522cf20",
   "lastOpenFiles": [
-    "4to Semstre/Web y Mobile/Clase 6-9.md",
-    "4to Semstre/Base de Datos/Sentencias.md",
     "4to Semstre/Etica/Clase 9-9.md",
+    "4to Semstre/Base de Datos/Sentencias ඞ.md",
+    "4to Semstre/Web y Mobile/Clase 6-9.md",
     "4to Semstre/Algoritmos/Clase 6-9.md",
     "4to Semstre/Etica",
     "4to Semstre/Web y Mobile",
