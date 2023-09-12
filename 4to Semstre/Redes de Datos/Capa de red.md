@@ -1,3 +1,5 @@
+red par
+=======
 Se encarga de "rutear" los paquetes según el destino. La capa de red conecta las diferentes LAN. Las interfaces de los routers **forman** parte de la red. 
 No puede pasar que dos dispositivos pertenezcan a la misma red. En las tarjetas de red, cada interfaz se toma como distintos dispositivos, es decir que una conexión wifi tiene distinta IP que una cableada en la misma PC.
 
@@ -73,6 +75,7 @@ Redes privadas según la clase:
 - Clase A: 10.0.0.0 a 10.255.255.255
 - Clase B: 172.16.0.0 a 172.31.255.255
 - Clase C: 192.168.0.0 a 192.168.255.255
+<<<<<<< HEAD
 
 **Subredes
 
@@ -99,3 +102,4 @@ E2 -> 61 hosts : 2^x - 2 > 61 - x = 6 - IP de red: 192.168.1.0 /26, IP válida: 
 Una red de /24 (Dos /25 y una de ellas dividida en 2 /26)
 
 Para evitar el solapamiento de redes, al asignar las redes, se hace en orden descendiente, es decir primero la más grande.
+

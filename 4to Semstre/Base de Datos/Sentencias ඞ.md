@@ -35,7 +35,6 @@ SELECT * FROM Alumnos WHERE fecha_nacimiento BETWEEN "01.01.1977" and "31.12.197
 DETELE FROM Alumnos WHERE CI = 3538745;
 DELETE FROM Alumnos <- borra todas las entradas, mala practica
 
-
 **Sentencia update:
 
 UPDATE Alumnos SET CI=5729473 WHERE NOMBRE="Juan";
