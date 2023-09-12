@@ -14,8 +14,21 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "4bdeed0affdb7bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de red.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4to Semstre/Redes de Datos/Capa de red.md"
+              }
             }
           },
           {
@@ -148,8 +165,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "baf0a459ee602488",
+  "active": "4bdeed0affdb7bd6",
   "lastOpenFiles": [
+    "4to Semstre/Base de Datos/Sentencias ඞ.md",
     "4to Semstre/Redes de Datos/Capa de red.md",
     "CALENDARIO/2023-12-21 FIN RETO 1.md",
     "CALENDARIO/2023-12-04 RETO 1.md",
@@ -175,7 +193,6 @@
     "CALENDARIO/2023-11-07 QUIZ 3  - UNIDAD 4 Y 5.md",
     "CALENDARIO/2023-10-31 LABORATORIO 6.md",
     "CALENDARIO/2023-10-17 REDES CONTROL OBLIGATORIO.md",
-    "CALENDARIO/2023-10-24 LABORATORIO 5.md",
     "CALENDARIO",
     "4to Semstre/Etica",
     "4to Semstre/Web y Mobile",

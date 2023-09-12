@@ -3,7 +3,7 @@ SELECT nombre_columna FROM nombre_tabla WHERE ...
 INSERT INTO nombre_tabla VALUES (valores a insertar)
 CREATE DATABASE o TABLE nombre
 
-**Sentencia create:**
+**Sentencia create:
 
 CREATE TABLE Alumnos(
     CI INTEGER PRIMARY KEY , <- Nombre - tipo - otras propiedades (primary key, not null, etc)
