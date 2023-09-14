@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red.md",
+                "file": "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 219.5
   },
   "right": {
     "id": "9209d13d79afdc37",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red.md",
+                "file": "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red.md",
+                "file": "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red.md"
+                "file": "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md"
+              }
+            }
+          },
+          {
+            "id": "028dc63028d3ec20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -133,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +152,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "0db18ed2803a357a",
   "lastOpenFiles": [
+    "Pasted image 20230914093631.png",
+    "Pasted image 20230914085750.png",
+    "4to Semstre/Redes de Datos/Capa de red/Subnetting.md",
+    "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
+    "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
+    "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
+    "Pasted image 20230914081955.png",
+    "4to Semstre/Redes de Datos/Capa de Enlace.md",
+    "Untitled.md",
+    "README.md",
+    "4to Semstre/Redes de Datos/Capa de red",
+    "Capa de red",
+    "CALENDARIO/2023-09-21 LABORATORIO 3.md",
+    "CALENDARIO/2023-09-18 RAT DESAROLLO WEB  - ANGULAR.md",
+    "CALENDARIO/2023-09-14 CONTROL ETICA.md",
+    "CALENDARIO/(Every ) SEMANA CULO.md",
+    "4to Semstre/Web y Mobile/Clase 6-9.md",
+    "4to Semstre/Etica/Clase 9-9.md",
+    "4to Semstre/Algoritmos/Clase 6-9.md",
     "CALENDARIO/2023-12-21 FIN RETO 1.md",
     "CALENDARIO/2023-11-29 DEFENSA DESARROLLO WEB.md",
     "CALENDARIO/2023-12-04 RETO 1.md",
@@ -159,21 +188,6 @@
     "CALENDARIO/2023-11-24 PARCIAL 2 BASE DE DATOS.md",
     "CALENDARIO/2023-11-16 LABORATORIO 7.md",
     "CALENDARIO/2023-11-23 QUIZ 4 - UNIDAD 6 Y 7.md",
-    "CALENDARIO/2023-11-22 PARCIAL 2 DESARROLLO WEB.md",
-    "CALENDARIO/2023-11-06 RAT MOBILE.md",
-    "CALENDARIO/2023-11-13 REVISION DESARROLLO WEB PEOYECTO.md",
-    "CALENDARIO/2023-11-07 QUIZ 3  - UNIDAD 4 Y 5.md",
-    "CALENDARIO/2023-11-02 FERIADO.md",
-    "CALENDARIO/2023-10-31 LABORATORIO 6.md",
-    "CALENDARIO/2023-10-24 LABORATORIO 5.md",
-    "CALENDARIO/2023-10-17 REDES CONTROL OBLIGATORIO.md",
-    "CALENDARIO/2023-10-18 RAT BACKEND.md",
-    "CALENDARIO/2023-10-13 INICIO OBLIGATORIO BD.md",
-    "CALENDARIO/2023-10-12 LABORATORIO 4.md",
-    "CALENDARIO/2023-10-06 FIN SEMANA CULO.md",
-    "CALENDARIO/2023-09-21 LABORATORIO 3.md",
-    "CALENDARIO/2023-10-11 PARCIAL DESARROLLO WEB.md",
-    "CALENDARIO/2023-10-02 ARRANCA SEMANA CULO.md",
     "CALENDARIO",
     "4to Semstre/Etica",
     "4to Semstre/Web y Mobile",

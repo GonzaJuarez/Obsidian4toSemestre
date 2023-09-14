@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
   "accentColor": "",
-  "cssTheme": "Typomagical",
-  "theme": "obsidian"
-=======
-  "accentColor": "#f53d7d",
-  "cssTheme": ""
->>>>>>> 425211f9b9e0fb4c7f431271b2b2ca6185ddb03b
+  "baseFontSize": 18
 }
