@@ -104,3 +104,25 @@ En cmd:
 Ejemplo:
 ![[Pasted image 20230914093631.png]]
 
+**NAT (Network Adress Translation)
+
+Básico y PortAT
+
+Todas las clases A y varias clases B se asignaron rápidamente dentro de los EEUU y las direcciones IP (completar)
+
+NAT permite comunicar hosts internos de una red privada con hosts públicos o incluso en otras redes privadas. El protocolo es ejecutado por routers que conectan Redes públicas con privadas.
+
+Consiste en definir dos clases de direcciones para un mismo equipo: la dirección interior y la dirección exterior.
+
+NAT Básico: 
+
+La comunicación es 1 a 1, se pueden iniciar conexiones desde Interntet. Un paquete IP que llega a un router con NAT cambia su cabezal, donde se asigna la IP de origen como la IP de la interfaz del router (la IP de destino la deja igual). Luego se construye una tabla donde se mapea la IP de origen (original del paquete) como IP de destino del paquete que retorna. (algo asi)
+
+NAT PortAT:
+
+La asociación es de muchos a 1. Los routers, además, deben llevar un registro de los puertos que se usan. Por lo general, no se pueden iniciar conexiones desde Internet. Esto abusa el modelo de capas ya que usa conceptos de capa 4 para solucionar un problema de capa 3.
+
+Los paquetes salientes:
+Cambian su IP de origen y el puerto por direción IP de NAT y (completar)
+
+

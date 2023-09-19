@@ -53,3 +53,4 @@ Si no:
 ? completar
 
 
+El router elige la red más chica cuando tiene varias opciones. La red más chica es la que tenga la máscara de red más grande.
