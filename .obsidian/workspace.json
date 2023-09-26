@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0db18ed2803a357a",
+            "id": "a6e2aec0ea6dd56c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
+                "file": "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
+                "file": "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
+                "file": "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/IPv4.md"
+                "file": "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,24 +157,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0db18ed2803a357a",
+  "active": "baf0a459ee602488",
   "lastOpenFiles": [
+    "4to Semstre/Redes de Datos/Capa de Transporte/Conceptos y funcionamiento ඞ.md",
+    "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md",
+    "4to Semstre/Redes de Datos/Capa de Enlace.md",
+    "4to Semstre/Redes de Datos/Capa de red/Subnetting.md",
+    "4to Semstre/Redes de Datos/Capa de Transporte",
+    "Untitled",
+    "4to Semstre/Redes de Datos/Capa de red/Protocolos de ruteo.md",
+    "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
+    "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
+    "4to Semstre/Redes de Datos/Capa de red/Encaminación de paquetes IP.md",
+    "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
     "CALENDARIO/2023-11-06 Cumple el gonza.md",
     "CALENDARIO/2023-10-06 Cumple el Mati.md",
-    "4to Semstre/Redes de Datos/Capa de red/Encaminación de paquetes IP.md",
-    "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
-    "4to Semstre/Redes de Datos/Capa de red/Protocolos de ruteo.md",
-    "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
     "CALENDARIO/2023-10-13 INICIO OBLIGATORIO BD.md",
     "CALENDARIO/2023-09-18 RAT DESAROLLO WEB  - ANGULAR.md",
     "CALENDARIO/2023-09-14 CONTROL ETICA.md",
     "Pasted image 20230914093631.png",
     "Encaminación de paquetes IP.md",
-    "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
     "Pasted image 20230914085750.png",
-    "4to Semstre/Redes de Datos/Capa de red/Subnetting.md",
     "Pasted image 20230914081955.png",
-    "4to Semstre/Redes de Datos/Capa de Enlace.md",
     "README.md",
     "4to Semstre/Redes de Datos/Capa de red",
     "Capa de red",
@@ -187,14 +192,11 @@
     "CALENDARIO/2023-12-04 RETO 1.md",
     "CALENDARIO/2023-12-02 PRESENTACION ETICA.md",
     "CALENDARIO/2023-12-01 DEFENSA BASES DE DATOS.md",
-    "CALENDARIO/2023-11-30 REDES PRESENTACION.md",
-    "CALENDARIO/2023-11-28 REDES PRESENTACION.md",
     "CALENDARIO",
     "4to Semstre/Etica",
     "4to Semstre/Web y Mobile",
     "4to Semstre/Algoritmos",
     "4to Semstre/Base de Datos",
-    "4to Semstre/Guerra_Paz_Religion",
-    "4to Semstre/Redes de Datos"
+    "4to Semstre/Guerra_Paz_Religion"
   ]
 }
