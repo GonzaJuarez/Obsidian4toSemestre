@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9209d13d79afdc37",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL.md",
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.md"
+                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md"
               }
             }
           },
@@ -179,18 +178,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9b2a870e91410867",
   "lastOpenFiles": [
+    "4to Semstre/Base de Datos/Historia Base de Datos.md",
+    "Sin título.canvas",
+    "SQL.md",
     "Pasted image 20230928092513.png",
     "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo DNS.md",
     "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md",
@@ -198,7 +200,6 @@
     "4to Semstre/Redes de Datos/Capa de Transporte/Conceptos y funcionamiento ඞ.md",
     "4to Semstre/Redes de Datos/Capa de Transporte",
     "4to Semstre/Base de Datos/Evolución Base de datos.md",
-    "SQL.md",
     "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
     "Excalidraw/Drawing 2023-09-25 11.54.58.excalidraw.md",
     "README.md",
@@ -224,7 +225,6 @@
     "4to Semstre/Redes de Datos/Capa de red",
     "Capa de red",
     "CALENDARIO/2023-09-21 LABORATORIO 3.md",
-    "CALENDARIO/2023-09-14 CONTROL ETICA.md",
     "CALENDARIO",
     "4to Semstre/Etica",
     "4to Semstre/Web y Mobile",
