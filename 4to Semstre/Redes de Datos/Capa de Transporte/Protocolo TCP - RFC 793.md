@@ -41,3 +41,44 @@ El receptor:
 **Establecimiento de la conexión
 
 Previamente el Servidor comienza a escuchar, Estado Listen, en un puerto determinado, Passive Open, donde puede aceptar conexiones desde cualquier cliente (cualquier IP) o de clientes particulares.
+
+**Control de flujo
+
+El objetivo es que un transmisor no genere overflow en los buffers del receptor. Para ello, debe existir una coherencia entre lo que se transmite con lo que la aplicación receptora puede procesar.
+
+Para ello, el tamaño inicial del buffer se establece durante la conexión. El receptor anuncia el tamaño libre del buffer, para esa conexión a través del encabezado TCP, campo windows size.
+
+El receptor retorna dos parámetros de manejo del control de flujo: AckNo y Windows size:
+1. Buffer libre, Win = 3000 bytes y mediante Ack = 1000 (se espera SeqNo = 1000)
+2. Llegan 3 segmentos de 1000 bytes cada uno
+3. La aplicación lee los datos y el buffer queda en 4000 bytes se envía Win = 4000 y Ack = 4000 (se espera SeqNo = 4000)
+4. Llegan 4 segmentos de 1000 bytes cada uno
+
+Comando netstat: para ver las conexiones activas en una computadora. Es muy útil para la seguridad porque alguna dirección IP podría llamar la atención.
+
+![[Pasted image 20230928092513.png]]
+
+**Control de congestión
+
+TCP sufre consecuenicas por congestión de red, esto se manifiesta mediante:
+- Pérdidas de paquetes (overflows en buffers)
+- Aumento y variación de delays
+
+Lo único que puede hacer TCP es reducir la cantidad de segmentos que envía a la red, esto se hace sin asistencia de red (completar)
+
+**Problema de control
+
+- Si se recibe un ACK: la red no está congestionada -> se puede aumentar la velocidad
+- Si se vence un timer (segmento perdido) -> La red está congestionada -> Se debe disminuir la velocidad
+
+¿Qué tan rápido se debe hacer?
+
+El control de congestión se implementa mediante dos parámetros:
+- Ventana de congestión (cwnd): limita la cantidad de segmentos que el transmisor puede transmitir sin ACKs
+- Slow-star threshhold (ssthresh)
+
+El control de congestión funciona en 2 fases:
+- Slow start
+- 
+
+Slow start: Cuando una conexión comienza, se incrementa exponencialemtne la cantidad de segmentos hasta que ocurra el primer evento de pérdida. Se comienza transmitiendo 1 segmento (cwnd = 1), se recibe un ACK y se hace cwnd = cwnd + 1. Durante (completar)
