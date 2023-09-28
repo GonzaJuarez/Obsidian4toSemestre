@@ -8,79 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0db18ed2803a357a",
+            "id": "906ce9ff8caf2e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
+                "file": "4to Semstre/Base de Datos/Evolución Base de datos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf8709339651e40f",
+            "id": "9b2a870e91410867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/Encaminación de paquetes IP.md",
+                "file": "SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db1031ff83d664d1",
+            "id": "2e544d7970477b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe89fc839b58a7b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ae686307b2953a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4to Semstre/Base de Datos/Sentencias ඞ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd8b8b46956ca8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolución Base de datos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolución Base de datos.md",
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolución Base de datos.md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolución Base de datos.md"
+                "file": "SQL.md"
               }
             }
           },
@@ -229,19 +189,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbd8b8b46956ca8c",
+  "active": "9b2a870e91410867",
   "lastOpenFiles": [
-    "4to Semstre/Base de Datos/Sentencias ඞ.md",
-    "Evolución Base de datos.md",
-    "4to Semstre/Redes de Datos/Capa de Enlace.md",
+    "4to Semstre/Base de Datos/Evolución Base de datos.md",
+    "SQL.md",
+    "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
     "Excalidraw/Drawing 2023-09-25 11.54.58.excalidraw.md",
-    "Pasted Image 20230926093950_199.jpg",
+    "README.md",
+    "4to Semstre/Base de Datos/Sentencias ඞ.md",
+    "4to Semstre/Redes de Datos/Capa de Enlace.md",
+    "4to Semstre/Redes de Datos/Capa de red/Encaminación de paquetes IP.md",
     "4to Semstre/Redes de Datos/Capa de red/Otros protocolos.md",
+    "Pasted Image 20230926093950_199.jpg",
     "4to Semstre/Redes de Datos/Capa de red/Protocolos de ruteo.md",
     "4to Semstre/Redes de Datos/Capa de red/Subnetting.md",
-    "4to Semstre/Redes de Datos/Capa de red/Encaminación de paquetes IP.md",
     "4to Semstre/Redes de Datos/Capa de red/IPv4.md",
-    "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
     "4to Semstre/Web y Mobile/Clase 6-9.md",
     "CALENDARIO/2023-11-06 RAT MOBILE.md",
     "CALENDARIO/2023-09-18 RAT DESAROLLO WEB  - ANGULAR.md",
@@ -253,7 +215,6 @@
     "Encaminación de paquetes IP.md",
     "Pasted image 20230914085750.png",
     "Pasted image 20230914081955.png",
-    "README.md",
     "4to Semstre/Redes de Datos/Capa de red",
     "Capa de red",
     "CALENDARIO/2023-09-21 LABORATORIO 3.md",
@@ -263,7 +224,6 @@
     "4to Semstre/Algoritmos/Clase 6-9.md",
     "CALENDARIO/2023-12-21 FIN RETO 1.md",
     "CALENDARIO/2023-11-29 DEFENSA DESARROLLO WEB.md",
-    "CALENDARIO/2023-12-04 RETO 1.md",
     "CALENDARIO",
     "4to Semstre/Etica",
     "4to Semstre/Web y Mobile",
