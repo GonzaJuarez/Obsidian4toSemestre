@@ -38,3 +38,6 @@ El receptor:
 - Utiliza "cumulative acknowledgement" (Es decir aumenta en 1 cada ACK)
 - Además, ordena los segmentos en base al número de secuencia y los dispone para que los lea la capa de aplicación (capa superior)
 
+**Establecimiento de la conexión
+
+Previamente el Servidor comienza a escuchar, Estado Listen, en un puerto determinado, Passive Open, donde puede aceptar conexiones desde cualquier cliente (cualquier IP) o de clientes particulares.

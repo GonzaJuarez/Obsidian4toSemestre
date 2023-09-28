@@ -103,3 +103,18 @@ UDP:
 
 **NINGUNO** garantiza un ancho de banda o un delay acotado.
 
+**Control de flujo
+
+El objetivo es que un transmisor no genere overflow en los buffers del receptor. Para ello, debe existir una coherencia entre lo que se transmite con lo que la aplicación receptora puede procesar.
+
+Para ello, el tamaño inicial del buffer se establece durante la conexión. El receptor anuncia el tamaño libre del buffer, para esa conexión a través del encabezado TCP, campo windows size.
+
+El receptor retorna dos parámetros de manejo del control de flujo: AckNo y Windows size:
+1. Buffer libre, Win = 3000 bytes y mediante Ack = 1000 (se espera SeqNo = 1000)
+2. Llegan 3 segmentos de 1000 bytes cada uno
+3. La aplicación lee los datos y el buffer queda en 4000 bytes se envía Win = 4000 y Ack = 4000 (se espera SeqNo = 4000)
+4. Llegan 4 segmentos de 1000 bytes cada uno
+
+Comando netstat: para ver las conexiones activas en una computadora. Es muy útil para la seguridad porque alguna dirección IP podría llamar la atención.
+
+![[Pasted image 20230928092513.png]]
