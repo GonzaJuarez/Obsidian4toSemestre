@@ -96,3 +96,6 @@ DATA MANIPULATION LANGUAGE.
 - DELETE
 - SELECT
 
+-- INSERT
+	- Para agregar datos a las tablas de la BD.
+	- Se pueden omitir 

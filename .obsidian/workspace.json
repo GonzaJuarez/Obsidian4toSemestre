@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "4to Semstre/Base de Datos/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9209d13d79afdc37",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "4to Semstre/Base de Datos/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL.md",
+                "file": "4to Semstre/Base de Datos/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.md"
+                "file": "4to Semstre/Base de Datos/SQL.md"
               }
             }
           },
@@ -189,16 +188,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b2a870e91410867",
+  "active": "2e544d7970477b64",
   "lastOpenFiles": [
+    "CALENDARIO/2023-10-16 FERIADO.md",
+    "4to Semstre/Base de Datos/Evolución Base de datos.md",
+    "4to Semstre/Base de Datos/SQL.md",
     "Pasted image 20230928092513.png",
     "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo DNS.md",
     "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo TCP - RFC 793.md",
     "4to Semstre/Redes de Datos/Capa de Transporte/Protocolo UDP - RFC 768.md",
     "4to Semstre/Redes de Datos/Capa de Transporte/Conceptos y funcionamiento ඞ.md",
     "4to Semstre/Redes de Datos/Capa de Transporte",
-    "4to Semstre/Base de Datos/Evolución Base de datos.md",
-    "SQL.md",
     "4to Semstre/Redes de Datos/Capa de red/Conceptos y funcionamiento.md",
     "Excalidraw/Drawing 2023-09-25 11.54.58.excalidraw.md",
     "README.md",
